@@ -1,3 +1,3 @@
 Asset Server
 
-Needs auto-updating
+fucking update already
